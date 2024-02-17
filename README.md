@@ -12,4 +12,11 @@ scratchpad-java는 Java 프로그래밍 언어를 사용하여
 <br> 작성된 코드를 테스트하고 실행하는 데 사용되는 임시 작업 영역을 의미할 수 있습니다.
 <br> 이는 주로 Java 개발자가 코드를 빠르게 작성하고 동작을 확인하기 위해 사용하는 도구 또는 환경을 가리킵니다.
 <br> by ChatGPT
+
+#### #version
+```
+Language: Java21
+Framework: Spring boot 3.2.2
+Build: Gradle
+```
 </div>
