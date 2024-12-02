@@ -1,0 +1,8 @@
+spring:
+  config:
+    activate:
+      on-profile: local
+
+Naver:
+  ClientId: fAM56fw8lWhW6KBE3PUN
+  ClientSecret: pfGMSGGh1Y
